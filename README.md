@@ -13,5 +13,6 @@ Rashmi Korpade
 1. Atiml_features.csv has all the extracted features from the 996 fiction novels. 
 2. The python notebook has the code for the whole pipeline from Pre-processing to classification task.
 3. Instructions file has all the necessary packages and paths required to be set before executing the code.
+4. Atiml_Project_Report is the final project report.
 
 
